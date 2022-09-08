@@ -1,4 +1,4 @@
 # Problem_solving_with_python
 problem solving
 -------------------------------------------------
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Problem_solving_with_python/master?urlpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Problem_solving_with_python/master?urlpath=Problem_solving_with_python/index.ipynb)
