@@ -4,6 +4,8 @@
 <center>
 <img src="img/3GP.png" width=500 height=360 /></center>
 
+The complete graph for the problem of 8L,5L and 3L gallon problem :
+<img src="img/example.png" width=500 height=360 /></center>
 
 ## General Solution:
 Here is a solution with graph theory implemented by python for this special case and also for generalized situation.
