@@ -5,7 +5,8 @@
 <img src="img/3GP.png" width=500 height=360 /></center>
 
 
-## General Solution
+## General Solution:
+Here is a solution with graph theory implemented by python for this special case and also for generalized situation.
 <center><img src="img/AnimationG.gif" width=500 height=360 /></center>
 
 ## Binder 
